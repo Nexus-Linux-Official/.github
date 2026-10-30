@@ -1,14 +1,12 @@
-# Nexus Linux — Open source, built for everyone.
+# Howdy, folks! 👋
 
-Greetings from Nexus Linux
-
-<img align="right" width="380" src="https://github.com/q7xk.png" alt="Nexus Linux" />
+<table>
+<tr>
+<td width="60%" valign="top">
 
 **Nexus Linux** is an independent open-source Linux distribution project focused on building a modern, reliable and user-friendly computing experience.
 
 Our goal is to bring together the freedom of Linux, the power of open-source software and a thoughtfully designed desktop experience.
-
-Nexus Linux is built around the idea that computing should be open, accessible and shaped by its community.
 
 We believe in transparency, collaboration and the freedom to build technology without unnecessary limitations.
 
@@ -16,13 +14,48 @@ We believe in transparency, collaboration and the freedom to build technology wi
 
 Nexus Linux is more than just an operating system. It is an evolving open-source ecosystem.
 
-We aim to create software, tools and experiences that make Linux better for everyone.
-
 ### 🤝 Community & Contributions
 
-Nexus Linux welcomes developers, designers, translators, testers and Linux enthusiasts from around the world.
+Everyone is welcome to explore, contribute and help shape the future of Nexus Linux.
 
-Everyone is welcome to explore, contribute and help shape the future of the project.
+</td>
+<td width="40%" align="center" valign="middle">
+
+```text
+@@@@@@@@@@@            @@@@@@@@@@@@@@
+                            @@@@@@@@@@@@@@@@@      @@@@@@@@@@@@@@@@@@@@@
+                          @@@@@@@..:---+@@@@@@@    @@@@@--========@@@@@@@@@
+                        @@@@@@......::-----@@@@@@  @@@@@@@--=========-@@@@@@
+                       @@@@@...........:-----@@@@@@ @@@@@@@@--========-:-@@@@@
+                      @@@@..............:------@@@@@    @@@@@@@=========-:@@@@@
+                     @@@@........ ........::-----@@@@     @@@@@@@========--:@@@@
+                    @@@@..... ........@@@@@@@:----@@@@       @@@@@-========--@@@
+                   @@@@...........+@@@@@@@@@@@@:---@@@@        @@@@+-========-@@@
+                   @@@...........@@@@@@@   @@@@@@--=@@@@        @@@@:-========@@@
+                   @@..........-@@@@@        @@@@@---@@@@        @@@@.:-=======@@@
+                  @@@..........@@@@            @@@@:--@@@@        @@@@..:-=====@@@
+                  @@@.........@@@@       @@@@@@ @@@@.::@@@         @@@....-=====@@
+                  @@.. .......@@@        @@@@@@@ @@@@@.-@@          @@.....:--==@@
+                  @@-:........@@         @@@.@@@@ @@@@@.@@          @@.......:-=@@
+                  @@---:......@@         @@@..@@@@  @@@@@@         @@@.........@@@
+                  @@-----:....@@@         @@@..@@@@  @@@@@        @@@@.........@@@
+                  @@----=-:...@@@         @@@. .@@@@             @@@@..........@@
+                  @@@-------:.:@@@         @@@.  @@@@@         @@@@@.. .......@@@
+                  @@@---------:@@@@@       @@@@   @@@@@@    @@@@@@@.... ......@@@
+                   @@@----------@@@@@       @@@@.  .@@@@@@@@@@@@@+::.........@@@
+                   @@@@-=---------@@@@@      @@@@@    @@@@@@@@:::::::.......@@@@
+                    @@@@--------==-@@@@@@     @@@@@     ..::::...::::::....@@@@
+                     @@@@-------===--@@@@@@@    @@@@.     ..::::...:::::..@@@@
+                      @@@@@------------@@@@@@@@  @@@@@.    ...::::..::::@@@@@
+                       @@@@@@@----=------:@@@@@@  @@@@@@@    ...::::..@@@@@@
+                         @@@@@@@@@==-------:@@@@    @@@@@@@@.  ...@@@@@@@@
+                            @@@@@@@@@@@@@@@@@@@@       @@@@@@@@@@@@@@@@@
+                                @@@@@@@@@@@@@@            @@@@@@@@@@
+```
+
+</td>
+</tr>
+</table>
 
 ### 🔗 Explore Nexus
 
